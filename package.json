@@ -1,0 +1,21 @@
+{
+  "author": "",
+  "name": "broken-test-example",
+  "description": "example of a broken module to check testbed's error handling.",
+  "version": "0.0.0",
+  "homepage": "https://github.com/dominictarr/broken-test-example",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:dominictarr/broken-test-example.git"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": "~v0.4.7"
+  },
+  "dependencies": {
+    "sadfasdguna": "0.0.0"
+  , "ASDASV": "0.0.0"
+  , "nusdomopopmi": "0.0.0"
+  },
+  "devDependencies": {}
+}
